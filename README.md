@@ -1,7 +1,10 @@
 # moc_ikt
 Telegram bot / Test assignment for Junior Python position Developer
 
+<h2>Install<h2>
+apt install -y htop git build-essential libssl-dev libffi-dev python3-pip python3-dev python3-setuptools python3-venv
 
+<h2>Description<h2>
 Тестовое задание на позицию Junior Python Developer:
 Напишите диалогового помощника (чат-бота) для мессенджера Telegram на языке программирования Python 3.
 Функционал работы чат-бота:
