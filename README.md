@@ -5,7 +5,17 @@ Install <br>
 apt install -y htop git build-essential libssl-dev libffi-dev python3-pip python3-dev python3-setuptools python3-venv 
 
 Update <br>
-git fetch && git checkout -f origin/master 
+git fetch && git checkout -f origin/master
+
+Run<br>
+sudo systemctl start tgbot
+sudo systemctl enable tgbot
+
+Status
+sudo systemctl status tgbot
+
+Restart<br>
+sudo systemctl start tgbot
 
 Тестовое задание на позицию Junior Python Developer:
 Напишите диалогового помощника (чат-бота) для мессенджера Telegram на языке программирования Python 3.
