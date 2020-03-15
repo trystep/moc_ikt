@@ -108,7 +108,7 @@ def main():
     )
 
     # Проверка, что бот корректно подключился к Telegram API
-    print(bot.get_me())
+    # print(bot.get_me())
 
     # Навесить обработчики команд
     start_handler = CommandHandler("start", do_start)
