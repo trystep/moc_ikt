@@ -11,7 +11,7 @@ Run<br>
 sudo systemctl start tgbot<br>
 sudo systemctl enable tgbot
 
-Status
+Status<br>
 sudo systemctl status tgbot
 
 Restart<br>
