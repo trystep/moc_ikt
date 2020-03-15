@@ -1,10 +1,10 @@
 # moc_ikt
 Telegram bot / Test assignment for Junior Python position Developer
 
-Install
+Install /n
 apt install -y htop git build-essential libssl-dev libffi-dev python3-pip python3-dev python3-setuptools python3-venv 
 
-Update
+Update /n
 git fetch && git checkout -f origin/master 
 
 Тестовое задание на позицию Junior Python Developer:
