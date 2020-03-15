@@ -17,6 +17,7 @@ sudo systemctl status tgbot
 Restart<br>
 sudo systemctl start tgbot
 
+Description<br>
 Тестовое задание на позицию Junior Python Developer:
 Напишите диалогового помощника (чат-бота) для мессенджера Telegram на языке программирования Python 3.
 Функционал работы чат-бота:
