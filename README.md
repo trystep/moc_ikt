@@ -8,7 +8,7 @@ Update <br>
 git fetch && git checkout -f origin/master
 
 Run<br>
-sudo systemctl start tgbot
+sudo systemctl start tgbot<br>
 sudo systemctl enable tgbot
 
 Status
