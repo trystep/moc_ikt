@@ -1,0 +1,14 @@
+[Unit]
+Description=Telegram Bot for https://ikt.mosreg.ru/
+After=network.target
+
+[Service]
+User=root
+Group=root
+
+WorkingDirectory=/home/moc_ikt/
+Environment="PYTHONPATH=/home/moc_ikt/"
+ExecStart=/home/moc_ikt/.venv/bin/python /home/moc_ikt/bot.py
+
+[Install]
+WantedBy=multi-user.target
