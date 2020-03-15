@@ -1,12 +1,12 @@
-python-telegram-bot==12.2.0
-pillow==6.0.0
-requests==2.21.0
+python-telegram-bot==12.4.2
+pillow==7.0.0
+requests==2.23.0
 xmltodict==0.12.0
-beautifulsoup4==4.7.1
-lxml==4.4.1
-Django==2.2.7
+beautifulsoup4==4.8.2
+lxml==4.5.0
+Django==3.0.4
 
 aiohttp[speedups]==3.6.2
 uvloop==0.14.0
-ujson==1.35
-aiogram==2.5.3
+ujson==2.0.2
+aiogram==2.6.1
